@@ -3,7 +3,7 @@ Learning Lab together
 
 Lab members : 
 
-- Christophe Groupa
+- Christophe Grova
 - Arielle Dascal 
 - Mahdi
 
